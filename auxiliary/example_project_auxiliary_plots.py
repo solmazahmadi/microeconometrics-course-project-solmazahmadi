@@ -4,6 +4,7 @@ import matplotlib as plt
 import pandas as pd
 import numpy as np
 import statsmodels as sm
+import seaborn
 
 from auxiliary.example_project_auxiliary_predictions import *
 from auxiliary.example_project_auxiliary_plots import *
